@@ -1,19 +1,22 @@
-# InventoryManagementProject
-Dear Ms. Manoil,
-In order to use the application please create a new java project and create new 8 new classes each containing the code
-that I have attached. The entire application should run off the class called "Main"
-In addition to that, please include the nofrills.png and inventory.txt files that I have attached. You can also start with
-your own blank inventory(the one I included is just an example)
-Everything should be labeled for ease of use:
-Enter Stock: (enter an item's name)
-Amount: (Amount of said item)
-Add:(Will add the item)
-Subtract(Will subtract the item)
-Remove(Will delete the item)
-Back(Returns you to the main application page)
+Overview
+This Java application is designed for efficient stock management. Built using Java Swing, it offers a graphical user interface for viewing, adding, subtracting, and deleting stock items. The application also includes an 'About' section and a safe exit option.
 
-Features:
--Able to view stock
--Able to add new stock as well as add to existing stock
--Able to subtract items from existing stock
--Able to delete items from system
+Features
+View Stock: Displays current stock levels.
+Add Stock: Interface to add new stock items.
+Subtract Stock: Functionality to decrease the quantity of existing stock items.
+Delete Stock: Option to remove stock items from the system.
+About: Information about the application.
+Exit: Safely exit the application with a confirmation prompt.
+
+Installation
+To run this application, you need to have Java installed on your machine. Follow these steps:
+Download the Stock Management Application files.
+Navigate to the directory containing the downloaded files.
+Compile the Java files.
+Run ApplicationFrame class to start the application.
+
+Usage
+Starting the Application: Execute the ApplicationFrame class. The main window of the application will appear.
+Navigation: Use the buttons on the main screen to navigate through different functionalities like viewing, adding, subtracting, and deleting stock.
+Exit Application: Click on the 'Exit' button to close the application. A confirmation dialog will ensure accidental closures are prevented.
